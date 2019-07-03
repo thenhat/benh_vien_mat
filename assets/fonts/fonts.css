@@ -1,0 +1,41 @@
+@font-face {
+	font-family:'VETCLight-Regular';
+	src: url('VETCLight_gdi.eot');
+	src: url('VETCLight_gdi.eot?#iefix') format('embedded-opentype'),
+		url('VETCLight_gdi.woff') format('woff'),
+		url('VETCLight_gdi.ttf') format('truetype'),
+		url('VETCLight_gdi.otf') format('opentype'),
+		url('VETCLight_gdi.svg#VETCLight-Regular') format('svg');
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+000D-FB06;
+}
+
+@font-face {
+	font-family:'VETCRegular-Regular';
+	src: url('VETCRegular_gdi.eot');
+	src: url('VETCRegular_gdi.eot?#iefix') format('embedded-opentype'),
+		url('VETCRegular_gdi.woff') format('woff'),
+		url('VETCRegular_gdi.ttf') format('truetype'),
+		url('VETCRegular_gdi.otf') format('opentype'),
+		url('VETCRegular_gdi.svg#VETCRegular-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+000D-FB04;
+}
+
+@font-face {
+	font-family:'VETC-Bold';
+	src: url('VETC-Bold_gdi.eot');
+	src: url('VETC-Bold_gdi.eot?#iefix') format('embedded-opentype'),
+		url('VETC-Bold_gdi.woff') format('woff'),
+		url('VETC-Bold_gdi.ttf') format('truetype'),
+		url('VETC-Bold_gdi.otf') format('opentype'),
+		url('VETC-Bold_gdi.svg#VETC-Bold') format('svg');
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+000D-FB06;
+}
